@@ -43,7 +43,7 @@ from `10px 12px` to `18px 12px`. Run the tests again:
 ```
 1) tests/join.spec.js:14:1 › the form after submitting nothing
 
-    Error: join/rejected: changed — 9620 pixel(s) differ across 1 region(s), and the subject resized from 468×251 to 468×267
+    Error: join/rejected: changed — 9,620 pixels differ across 1 region, and the subject resized from 468×251 to 468×267
     1 region(s), ordered by area — no causes were supplied, so this
     ordering measures displacement rather than blame:
       9620px — at 24,82 (420×161)

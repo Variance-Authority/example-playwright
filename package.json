@@ -9,6 +9,6 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.62.1",
-    "@variance-authority/playwright-test": "^0.1.0"
+    "@variance-authority/playwright-test": "^0.1.1"
   }
 }
